@@ -3,6 +3,11 @@
     --primary: #f7a94b;
     --light: #F0FBFC;
     --dark: #181d38;
+    --gradient:linear-gradient(270deg, rgba(247,169,75,1) 0%, rgba(245,162,75,1) 30%, rgba(226,86,78,1) 71%, rgba(226,86,78,1) 71%);
+}
+
+body{
+    background-color: #f8f8f8 !important;  
 }
 
 .fw-medium {
@@ -337,8 +342,18 @@
 }
 
 .testimonial-carousel .owl-item.center .testimonial-text {
-    background: var(--primary) !important;
+    background: var(--gradient) !important;
+    border-radius: 20px;
+    position: relative;
 }
+
+/*.testimonial-carousel .owl-item.center .testimonial-text{
+        content: "";
+        position: absolute;
+        height: 20px;
+        width: 20px;
+        background-color: red;
+}*/
 
 .testimonial-carousel .owl-item.center .testimonial-text * {
     color: #FFFFFF !important;
@@ -454,3 +469,31 @@
     opacity: 10;
     position: relative;
 }
+
+/*.owl-nav{
+    display: none !important;
+}*/
+
+.course{
+    background-color: var(--primary);
+    
+    border-radius: 5px;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.course .col-md-3{
+      height: 200px;
+      padding: 10px;
+}
+
+.course   .course-border{
+    border-right: 1px solid #fff !important;
+    height: 100%;
+
+}
+
+.gradient-background{
+        background: linear-gradient(270deg, rgba(247,169,75,1) 0%, rgba(245,162,75,1) 30%, rgba(226,86,78,1) 71%, rgba(226,86,78,1) 71%);
+}
+
