@@ -470,9 +470,9 @@ body{
     position: relative;
 }
 
-/*.owl-nav{
+.owl-nav{
     display: none !important;
-}*/
+}
 
 .course{
     background-color: var(--primary);
