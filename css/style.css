@@ -451,6 +451,7 @@ body{
 .btn-primary{
     background-color: #f7a94b;
     border-color: #f7a94b;
+    font-size: 16px;
 
 }
 
@@ -548,5 +549,6 @@ body{
     height: 300px;
     width: 100%;
     background-color: var(--primary);
-    
+
 }
+
