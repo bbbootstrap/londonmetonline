@@ -649,6 +649,14 @@ body{
    }
 
 
+   .dots-design-left {
+    position: absolute;
+    left: -80px;
+    top: -133px;
+    transform: rotate(45deg);
+}
+
+
 } 
 
 
