@@ -631,8 +631,12 @@ body{
         height: 40px;
     }
 
+    .footer-logo{
+            width: 300px;
+    }
+
     .content-margin{
-        margin-top: -130px;
+        margin-top: -33px;
     }
 
     .course   .course-border{
