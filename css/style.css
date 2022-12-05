@@ -567,6 +567,10 @@ body{
    .content-margin{
             margin-top: -150px;
     }
+
+    .back-image{
+    background-image: url(https://wordpress-279127-2999474.cloudwaysapps.com/wp-content/uploads/2022/11/second-big-bg.jpg);
+   }
 }
 
 /* for laptops */
@@ -589,6 +593,10 @@ body{
    .content-margin{
             margin-top: -150px;
     }
+
+    .back-image{
+    background-image: url(https://wordpress-279127-2999474.cloudwaysapps.com/wp-content/uploads/2022/11/second-big-bg.jpg);
+   }
 } 
 
 /* for large tablets */
@@ -607,6 +615,10 @@ body{
 
    .module-row{
        display: block;
+   }
+
+   .back-image{
+    background-image: url(https://wordpress-279127-2999474.cloudwaysapps.com/wp-content/uploads/2022/11/second-big-bg.jpg);
    }
 } 
 
@@ -631,6 +643,10 @@ body{
    .content-margin{
         margin-top: -33px;
     }
+
+    .back-image{
+    background-image: url(https://i.imgur.com/8XTz1Qh.jpg);
+   }
 
     
 } 
@@ -675,6 +691,10 @@ body{
 
    .content-margin .nw{
     font-size: 18px !important;
+   }
+
+   .back-image{
+    background-image: url(https://i.imgur.com/8XTz1Qh.jpg);
    }
 
 
