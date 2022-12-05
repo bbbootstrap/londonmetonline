@@ -563,6 +563,10 @@ body{
     border-right: 1px solid #fff !important;
     height: 100%;
    }
+
+   .content-margin{
+            margin-top: -150px;
+    }
 }
 
 /* for laptops */
@@ -581,6 +585,10 @@ body{
    .module-row{
        display: flex;
    }
+
+   .content-margin{
+            margin-top: -150px;
+    }
 } 
 
 /* for large tablets */
@@ -620,6 +628,10 @@ body{
        display: block;
    }
 
+   .content-margin{
+        margin-top: -33px;
+    }
+
     
 } 
 
@@ -646,6 +658,23 @@ body{
 
    .module-row{
        display: block;
+   }
+
+
+   .dots-design-left {
+    display: none;
+   }
+
+   .content-margin h1{
+      font-size: 22px;
+   }
+
+   .content-margin p{
+      font-size: 15px !important;
+   }
+
+   .content-margin .nw{
+    font-size: 18px !important;
    }
 
 
