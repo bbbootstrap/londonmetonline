@@ -602,7 +602,9 @@ body{
 
   }
 
-/* for laptops */
+
+
+/* for laptops   */
 @media only screen 
   and (min-width: 991px) 
   and (max-width: 1366px) { 
